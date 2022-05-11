@@ -4,7 +4,7 @@
 
 ## Who am I? 🤔
 
-👉🏻 I'm a 27 year old Chilean climber 🧗🏻‍♂️, cyclist 🚴🏻‍♂️ and Web Fullstack Developer student at Henry 🐱‍💻.
+👉🏻 I'm a 27 years old Chilean climber 🧗🏻‍♂️, cyclist 🚴🏻‍♂️ and Web Fullstack Developer student at Henry 🐱‍💻.
 Currently learning React JS, Node JS and Python.   
    
 I feel that my most important skill is my capacity to learn and adapt my self to different kind of environments and teams.    
