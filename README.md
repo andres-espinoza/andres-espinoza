@@ -5,11 +5,11 @@
 ## Who am I? 🤔
 
 👉🏻 I'm a 27 years old Chilean climber 🧗🏻‍♂️, cyclist 🚴🏻‍♂️ and Software Engineer at Metbus 🐱‍💻.
-Currently learning Node JS.   
+Currently learning more about NodeJS with Express and TypeScript 💙
    
 I feel that my most important skill is my capacity to learn and adapt my self to different kind of environments and teams.    
      
-I have experience doing web development as a front developer, data analysis, graphic design (this GitHub banner feels good 👌), and strategic planning for companies from IT, Market Research, Retail and Financial Services Industries.       
+I have experience doing web development, data analysis, graphic design (this GitHub banner feels good 👌), and strategic planning for companies from IT, Market Research, Retail and Financial Services Industries.       
 
 ## 📫 How to reach me?
 
