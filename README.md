@@ -4,7 +4,7 @@
 
 ## Who am I? 🤔
 
-👉🏻 I'm a 27 years old Chilean climber 🧗🏻‍♂️, cyclist 🚴🏻‍♂️ and Software Engineer at Metbus 🐱‍💻.
+👉🏻 I'm a 28 years old Chilean climber 🧗🏻‍♂️, cyclist 🚴🏻‍♂️ and Software Engineer at Metbus 🐱‍💻.
 Currently learning more about NodeJS with Express and TypeScript 💙
    
 I feel that my most important skill is my capacity to learn and adapt my self to different kind of environments and teams.    
@@ -15,3 +15,6 @@ I have experience doing web development, data analysis, graphic design (this Git
 
 [You can check my LinkedIn profile here 🦄](https://www.linkedin.com/in/andres-espinoza-delgado-research-data-analysis-code/)
 
+## 👩‍💻 Last Projects
+
+- [Custom Boilerplate Vite + React + TypeScript 💙 + Material UI + Eslint + Prettier + Custom Theme & Light/Dark mode](https://github.com/andres-espinoza/template-vite-react-typescript-mui-eslint-prettier-custom-theme)
