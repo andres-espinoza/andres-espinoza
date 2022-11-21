@@ -13,7 +13,7 @@ I have experience doing web development, data analysis, graphic design (this Git
 
 ## 📫 How to reach me?
 
-[You can check my LinkedIn profile here 🦄](https://www.linkedin.com/in/andres-espinoza-delgado-research-data-analysis-code/)
+[You can check my LinkedIn profile here 🦄](https://www.linkedin.com/in/andres-espinoza-delgado-fullstack-developer-typescript-react-nodejs-express-mongodb/)
 
 ## 👩‍💻 Last Projects
 
