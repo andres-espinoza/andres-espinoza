@@ -18,3 +18,5 @@ I have experience doing web development, data analysis, graphic design (this Git
 ## 👩‍💻 Last Projects
 
 - [Custom Boilerplate Vite + React + TypeScript 💙 + Material UI + Eslint + Prettier + Custom Theme & Light/Dark mode](https://github.com/andres-espinoza/template-vite-react-typescript-mui-eslint-prettier-custom-theme)
+
+- [Rick & Morty App using GraphQL 💜](https://github.com/andres-espinoza/rick-and-morty-challenge)
