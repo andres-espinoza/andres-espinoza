@@ -5,15 +5,14 @@
 ## Who am I? 🤔
 
 👉🏻 I'm a 28 years old Chilean climber 🧗🏻‍♂️, cyclist 🚴🏻‍♂️ and Software Engineer at Metbus 🐱‍💻.
-Currently learning more about NodeJS with Express and TypeScript 💙
    
 I feel that my most important skill is my capacity to learn and adapt my self to different kind of environments and teams.    
      
-I have experience doing web development, data analysis, graphic design (this GitHub banner feels good 👌), and strategic planning for companies from IT, Market Research, Retail and Financial Services Industries.       
+I have experience doing web development, UX/UI design, data analysis and graphic design (this GitHub banner feels good 👌)
 
 ## 📫 How to reach me?
 
-[You can check my LinkedIn profile here 🦄](https://www.linkedin.com/in/andres-espinoza-delgado-fullstack-developer-typescript-react-nodejs-express-mongodb/)
+[You can check my LinkedIn profile here 🦄](https://www.linkedin.com/in/andres-espinoza-software-engineer-typescript-javascript-react/)
 
 ## 👩‍💻 Last Projects
 
